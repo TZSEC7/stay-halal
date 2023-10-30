@@ -1,3 +1,6 @@
+# stay-halal
+Tools al-quran 
+
 ![giphy](https://github.com/TZSEC7/stay-halal/assets/142743672/17165568-de52-4d0b-892b-6b7a91855163)
 
 # stay-halal
